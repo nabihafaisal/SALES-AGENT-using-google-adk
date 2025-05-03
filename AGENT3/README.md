@@ -19,7 +19,7 @@ This project builds a multi-turn conversational **sales agent** using **Google's
 
 ### 📁 Clone the Repository
 ```bash
-[git clone https://github.com/yourusername/lead-agent-adk.git](https://github.com/nabihafaisal/SALES-AGENT-using-google-adk.git)
+(https://github.com/nabihafaisal/SALES-AGENT-using-google-adk.git)
 
 ```
 
